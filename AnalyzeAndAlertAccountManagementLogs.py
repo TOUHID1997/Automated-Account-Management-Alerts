@@ -3,9 +3,9 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Email credentials
-sender_email = "touhidrevenger1997@gmail.com"
-app_password = "lfyq rsus mpkl vnuk"  # This is the app password you generated
-recipient_email = "topcoder2002@gmail.com"
+sender_email = "your_email@gmail.com"
+app_password = "your_16_character_app_password"  # This is the app password generated from gmail
+recipient_email = "recipient_email@gmail.com"
 
 # Create the email
 message = MIMEMultipart()
